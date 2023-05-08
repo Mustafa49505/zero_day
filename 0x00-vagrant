@@ -1,0 +1,5 @@
+README.mdecho "The 'uname' command without any option prints the name and details of the current operating system." > 0x00-vagrant/uname_answer.txt
+cd 0x00-vagrant
+git add uname_answer.txt
+git commit -m "Add answer to 'uname' command question"
+git push origin main
