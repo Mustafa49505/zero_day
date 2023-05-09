@@ -3,3 +3,4 @@ cd 0x00-vagrant
 git add uname_answer.txt
 git commit -m "Add answer to 'uname' command question"
 git push origin main
+If you run the uname command on an Ubuntu VM, it will typically print "Linux", since Ubuntu is a Linux-based operating system.
